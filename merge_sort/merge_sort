@@ -1,0 +1,9 @@
+
+
+
+
+
+
+
+sorter = MergeSort.new
+sorter.sort(["d", "b", "a", "c"])
